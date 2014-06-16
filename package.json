@@ -1,0 +1,9 @@
+{
+  "name": "example-songbird",
+  "scripts": {
+    "test": "node songbird.js"
+  },
+  "dependencies": {
+    "songbird": "^0.1.2"
+  }
+}
